@@ -1,0 +1,158 @@
+/* Styles font */
+
+
+.open-sans-uniquifier {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.container {
+    max-width: 1320px;
+    margin: auto;
+    padding: 0 8px;
+}
+
+.img-bg-size {
+    height: 600px;
+}
+
+/* Fast section */
+
+.all-section {
+    background-image: url(../images/Banner\ Image.png);
+    margin-top: 50px;
+
+}
+
+.fast-divition {
+    background-image: linear-gradient(#070211, #07021100);
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content h1,
+h3 {
+    font-size: 32px;
+    color: white;
+    text-align: center;
+
+}
+
+.content .two-line {
+    font-size: 61px;
+    font-weight: 600;
+    color: white;
+    padding-top: 5px;
+}
+
+/* secend Divition */
+
+.second-sections .content .title-div h1 {
+    color: #FF0000;
+    font-size: 88px;
+    font-weight: bold;
+}
+
+.second-sections .content .title-div p {
+    color: #FF0000;
+    font-size: 24px;
+}
+
+.second-sections .content .title-div h2 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #070211;
+}
+
+.second-sections .content .title-div {
+    text-align: center;
+}
+
+
+.img-tab {
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    margin: auto;
+}
+
+/*  third divition */
+
+.img-bg,
+.img-bg-size {
+    background-image: url(../images/Vectorrr.png);
+    margin-top: 120px;
+
+}
+
+.full-sectione {
+    background-image: linear-gradient(to right, #070211, #07021100);
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-heder,
+h1 p h4 {
+    color: #FFFFFF;
+    padding-left: 126px;
+    padding-right: 300px;
+}
+
+.title {
+    font-size: 64px;
+}
+
+.description-man {
+    font-size: 18px;
+    opacity: 0.8;
+}
+
+.img-logo {
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+.img-dabol {
+    padding-right: 138px;
+    padding-top: 68px;
+}
+
+/*  Four section */
+
+.four-content {
+    width: 1320px;
+    height: 482px;
+    background-image: linear-gradient(to top, #ff000007, #cea6a6b6)
+}
+
+.title-section {
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    justify-items: center;
+}
+
+.text1 {
+    color: #FF0000;
+}
+
+.btn-start {
+    text-align: center;
+}
+
+.btn {
+    background-color: #FF0000;
+    padding: 16px 32px;
+    font-size: 32px;
+    border: none;
+    color: white;
+}
