@@ -131,7 +131,17 @@ h1 p h4 {
 .four-content {
     width: 1320px;
     height: 482px;
-    background-image: linear-gradient(to top, #ff000007, #cea6a6b6)
+    text-align: center;
+    background-image: linear-gradient(to top, #ff000007, #cea6a6b6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.all-skill {
+    align-items: center;
+    justify-items: center;
 }
 
 .title-section {
@@ -146,7 +156,7 @@ h1 p h4 {
 }
 
 .btn-start {
-    text-align: center;
+    /* text-align: center; */
 }
 
 .btn {
